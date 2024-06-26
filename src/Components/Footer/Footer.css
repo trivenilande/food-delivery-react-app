@@ -1,0 +1,23 @@
+.footer{
+    height:25rem ;
+    background-color: rgb(66, 63, 63);
+   color: white;
+   font-family: outfit;
+    
+}
+
+.footer-content{
+    display: flex;
+    align-items: center;
+    padding: 50px;
+  
+}
+
+.footer-content-left{
+    width: 40%;
+}
+
+.footer-content-center{
+    width: 30%;
+    padding: 30px;
+}
