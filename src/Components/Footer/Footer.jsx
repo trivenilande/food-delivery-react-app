@@ -31,11 +31,14 @@ const Footer = () => {
         </div>
 
         <div className="footer-content-right">
-            <h2>GET IN TOUCH</h2>
-            <ul><li>9884778992</li>
-            <li>contactustomato@gmail.com</li></ul>
+          <h2>GET IN TOUCH</h2>
+          <ul>
+            <li>9884778992</li>
+            <li>contactustomato@gmail.com</li>
+          </ul>
         </div>
       </div>
+      <hr/>
       <p>Copyright 2024 @ Tomato.com - All Right Reserved</p>
     </div>
   );
